@@ -1,4 +1,4 @@
-[[Linear algorithm|← Назад к Линейным алгоритмам]]
+[← Назад к Линейным алгоритмам](obsidian://advanced-uri?vault=Obsidian%20Vault&filepath=Спортивное%20программирование%2FLinear%20algorithm.md)
 
 # Линейная временная сложность O(n)
 - **Суть понятия:**
