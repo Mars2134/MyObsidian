@@ -1,4 +1,4 @@
-[← Назад к Линейным алгоритмам](obsidian://advanced-uri?vault=Obsidian%20Vault&filepath=Спортивное%20программирование%2FLinear%20algorithm.md)
+[<-назад](Linear%20algorithm.md)
 
 # Конструкции и циклы в O(n)
 
